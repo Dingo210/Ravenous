@@ -4,7 +4,7 @@ import './App.css';
 import BusinessList from './components/BusinessList/BusinessList';
 import SearchBar from './components/SearchBar/SearchBar';
 
-import Yelp from './src/util/Yelp';
+import Yelp from './util/Yelp';
 
 
 class App extends React.Component {
